@@ -7,4 +7,5 @@
 <!---
 AbdurashidRaxmatullaev/AbdurashidRaxmatullaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->Biz xozir proekt ustida ishlayapmiz proektimni katta va zor qilmoqchiman proektim telefon boyicha boladi because it is interesting for me 
+--->We are currently working on a project. I want to make my project big and difficult because it is interesting for me.
+
